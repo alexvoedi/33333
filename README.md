@@ -1,7 +1,7 @@
 # 33333
 
 ## Done
-1. [Pong (3:33:33 + 20s)](https://github.com/alexvoedi/33333_pong) (_easy_)
+1. [Pong](https://github.com/alexvoedi/33333_pong) (3:33:33 + 20s) (_easy_)
 
 ## Upcoming
 1. Solitair (_middle_)
