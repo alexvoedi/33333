@@ -1,16 +1,16 @@
 # 33333
 
 ## Done
-1. [Pong (3:33:33 + 20s)](https://github.com/alexvoedi/33333_pong)
+1. [Pong (3:33:33 + 20s)](https://github.com/alexvoedi/33333_pong) (_easy_)
 
 ## Upcoming
-1. Solitair
-2. Tower Defense
-3. Kühlschranküberwachungssystem
-4. Fußball
-5. 4-Farben-Spiel
-6. Kurvenspiel
-7. Game Of Life
-8. Jäger-Beute-Simulation
-9. Einkaufsplaner
-10. Fraktale
+1. Solitair (_middle_)
+2. Tower Defense (_hard_)
+3. Kühlschranküberwachungssystem (_easy_)
+4. Fußball (_middle_)
+5. 4-Farben-Spiel (_easy_)
+6. Kurvenspiel (_easy_)
+7. Game Of Life (_easy_)
+8. Jäger-Beute-Simulation (_middle_)
+9. Einkaufsplaner (_hard_)
+10. Fraktale (_easy_)
