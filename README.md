@@ -4,7 +4,7 @@
 1. [Pong](https://github.com/alexvoedi/33333_pong) (3:33:33 + 20s) (_easy_)
 
 ## Upcoming
-1. Solitair (_middle_)
+1. Spider (_middle_)
 2. Tower Defense (_hard_)
 3. Kühlschranküberwachungssystem (_easy_)
 4. Fußball (_middle_)
