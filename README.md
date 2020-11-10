@@ -7,10 +7,11 @@
 ## Upcoming
 
 3. Tower Defense (_hard_)
-4. Fußball (_middle_)
+4. Fußball (_medium_)
 5. 4-Farben-Spiel (_easy_)
-6. Kurvenspiel (_easy_)
+6. Kurvenspiel (_medium_)
 7. Game Of Life (_easy_)
-8. Jäger-Beute-Simulation (_middle_)
+8. Jäger-Beute-Simulation (_medium_)
 9. Einkaufsplaner (_hard_)
 10. Fraktale (_easy_)
+11. Minesweeper (_easy_)
