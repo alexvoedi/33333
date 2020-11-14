@@ -9,11 +9,14 @@ The task is to complete the projects within 3 hours 33 minutes and 33 seconds. T
 
 ## Upcoming
 
-4. Soccer (_hard_)
-5. 4-Color-Game (_easy_)
-6. Curve game (_medium_)
-7. Game Of Life (_easy_)
-8. Predator prey simulation (_medium_)
-9. Shopping planner (_hard_)
-10. Fractals (_easy_)
-11. Minesweeper (_easy_)
+4. 4-Color-Game (_easy_)
+5. Curve game (_medium_)
+6. Game Of Life (_easy_)
+7. Predator prey simulation (_medium_)
+8. Shopping planner (_hard_)
+9. Fractals (_easy_)
+10. Minesweeper (_easy_)
+
+## Probably too hard
+
+Soccer
