@@ -9,7 +9,7 @@ The task is to complete the projects within 3 hours 33 minutes and 33 seconds. T
 
 ## Upcoming
 
-4. Soccer (_medium_)
+4. Soccer (_hard_)
 5. 4-Color-Game (_easy_)
 6. Curve game (_medium_)
 7. Game Of Life (_easy_)
