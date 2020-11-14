@@ -16,6 +16,6 @@ The task is to complete the projects within 3 hours 33 minutes and 33 seconds. T
 8. Fractals (_easy_)
 9. Minesweeper (_easy_)
 
-## > 333333
+## t > 333333
 
 Soccer, Shopping planner
