@@ -5,10 +5,10 @@ The task is to complete the projects within 3 hours 33 minutes and 33 seconds. T
 ## Done
 1. [Pong](https://github.com/alexvoedi/33333_pong) (+ 20s) (_easy_)
 2. [Spider](https://github.com/alexvoedi/33333_spider) (+ 10m20s) (_middle_)
+3. [Tower Defense](https://github.com/alexvoedi/33333_tower-defense) (+ 0s) (_hard_)
 
 ## Upcoming
 
-3. Tower Defense (_hard_)
 4. Soccer (_medium_)
 5. 4-Color-Game (_easy_)
 6. Curve game (_medium_)
