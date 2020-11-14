@@ -10,7 +10,7 @@ The task is to complete the projects within 3 hours 33 minutes and 33 seconds. T
 ## Upcoming
 
 4. 4-Color-Game (_easy_)
-5. Curve game (_medium_)
+5. Curve game (_hard_)
 6. Game Of Life (_easy_)
 7. Predator prey simulation (_medium_)
 8. Shopping planner (_hard_)
