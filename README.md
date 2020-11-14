@@ -13,10 +13,9 @@ The task is to complete the projects within 3 hours 33 minutes and 33 seconds. T
 5. Curve game (_hard_)
 6. Game of Life (_easy_)
 7. Predator prey simulation (_medium_)
-8. Shopping planner (_hard_)
-9. Fractals (_easy_)
-10. Minesweeper (_easy_)
+8. Fractals (_easy_)
+9. Minesweeper (_easy_)
 
 ## Probably too hard
 
-Soccer
+Soccer, Shopping planner
