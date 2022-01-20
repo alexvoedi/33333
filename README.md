@@ -7,6 +7,7 @@ The task is to complete the projects within 3 hours 33 minutes and 33 seconds. T
 2. [Spider](https://github.com/alexvoedi/33333_spider) (+ 10m20s) (_middle_)
 3. [Tower Defense](https://github.com/alexvoedi/33333_tower-defense) (+ 0s) (_hard_)
 4. [4-Color-Game](https://github.com/alexvoedi/33333_4-color-game) (- 2m39s) (_easy_)
+5. [Minesweeper](https://github.com/alexvoedi/minesweeper) (_no time_) (_easy_)
 
 ## Upcoming
 
@@ -14,7 +15,6 @@ The task is to complete the projects within 3 hours 33 minutes and 33 seconds. T
 6. Game of Life (_easy_)
 7. Predator prey simulation (_medium_)
 8. Fractals (_easy_)
-9. Minesweeper (_easy_)
 
 ## t > 333333
 
